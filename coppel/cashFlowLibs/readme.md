@@ -4,7 +4,8 @@ dataMgmt/v0_0_1/dataMgmt.js
 
 https://cdn.jsdelivr.net/gh/jrra78/bibliothecas@main/dataMgmt/v0_0_1/dataMgmt.js
 
-/coppel/cashFlowLibs/domMgmt.min.js
+
+Libraries used:
 
 https://cdn.jsdelivr.net/gh/jrra78/bibliothecas@main/coppel/cashFlowLibs/domMgmt.min.js
 
