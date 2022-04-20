@@ -16,3 +16,7 @@ $ nodeenv -p
 ```
 $ npm install uglify-js -g
 ```
+
+```
+uglifyjs <inputfile> -c -m -o  <ouputfile>
+```
