@@ -20,3 +20,9 @@ $ npm install uglify-js -g
 ```
 uglifyjs <inputfile> -c -m -o  <ouputfile>
 ```
+where the options used are described as:
+| Option | Description |
+|--------|-------------|
+|-m, --mangle | Mangle names/specify mangler options. |
+|-m, --mangle | Mangle names/specify mangler options. |
+|-o, --output <file> | Output file (default STDOUT). |
